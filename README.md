@@ -1,4 +1,4 @@
-![Enterprise](./assets\images\web.jpg)
+![Enterprise](https://raw.githubusercontent.com/abdellahaarab/abdellahaarab.github.io/main/assets/images/web.jpg)
 
 # My Portfolio 
 
